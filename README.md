@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sifi Abdelwaheb</h1>
 <h3 align="center">Frontend developer And Data Scientist At BioInnov8</h3>
 
-- 🔭 I’m currently working on **international-bioservice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
